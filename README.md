@@ -21,4 +21,4 @@ Team Leader BonjLeader1@test.com secret123
            BonjLeader2@test.com secret123
 Admin admin2@test.com secret123
 
-member bonjmember2@test.com secret123
+member bonjmember2@test.com secret123 
